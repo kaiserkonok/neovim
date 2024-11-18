@@ -10,7 +10,7 @@ You can follow this steps to get started from scratch:
 brew install neovim
 ```
 
-## Linux:
+## Debian BASED OS:
 ```
 sudo apt-get install neovim
 ```
